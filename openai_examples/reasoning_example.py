@@ -1,7 +1,12 @@
 """
 reasoning_example.py
 
-This module demonstrates the usage of the OpenAI API for reasoning tasks. 
+This module demonstrates the usage of the OpenAI Responses API for reasoning tasks. 
+
+Links:
+- OpenAI Responses API: https://platform.openai.com/docs/api-reference/responses/create
+- Reasoning Best Practices: https://platform.openai.com/docs/guides/reasoning-best-practices
+- Responses vs Chat Completions: https://platform.openai.com/docs/guides/responses-vs-chat-completions
 """
 import os
 from openai import OpenAI
